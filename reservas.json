@@ -1,0 +1,12 @@
+[
+    {
+        "id_reserva": 0,
+        "id_sala": 0,
+        "id_usuario": 0,
+        "fecha": "string",
+        "hora_inicio": "string",
+        "hora_fin": "string",
+        "personas": 0,
+        "estado": true
+    }
+]
